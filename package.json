@@ -1,0 +1,19 @@
+{
+  "name": "hdom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "rollup -c -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^0.36.0",
+    "rollup-plugin-buble": "^0.14.0"
+  },
+  "dependencies": {
+    "rollup-watch": "^2.5.0"
+  }
+}
